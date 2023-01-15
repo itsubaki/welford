@@ -1,2 +1,3 @@
 # welford
-welford algorithm for Go
+
+ * Welford algorithm for Go
