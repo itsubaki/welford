@@ -1,6 +1,6 @@
 # welford
 
- * Welford algorithm in Go
+ - Welford algorithm in Go
 
 
 ```go
